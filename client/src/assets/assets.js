@@ -11,13 +11,13 @@ export const assets = {
     googlePlay,
     appStore,
     screenImage,
-    profile
+    profile,
 }
 
 export const dummyTrailers = [
     {
         image: "https://img.youtube.com/vi/WpW36ldAqnM/maxresdefault.jpg",
-        videoUrl: 'https://www.youtube.com/watch?v=WpW36ldAqnM'
+        videoUrl: ''
     },
     {
         image: "https://img.youtube.com/vi/-sAOWhvheK8/maxresdefault.jpg",
